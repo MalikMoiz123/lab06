@@ -1,0 +1,26 @@
+.header{
+    background-color: gray;
+    
+}
+
+.blue{
+    border-top: 3px solid red;
+
+    background-color: blue;
+  
+
+}
+table{
+    width: 100%
+    ;
+    border-collapse: collapse;
+
+}
+.purple{
+    color: white;
+    border-top: 3px solid ;
+    border-right: 3px;
+}
+.pink{
+    border: 3px solid pink;
+}
